@@ -1,1 +1,10 @@
 
+Notes : 
+
+Image path is assumed as folder location and Item Id.jpeg
+
+Image path and other things are hard coded for demo only, can be fetch from configs. 
+
+Image path can be stored in DB as it is based on full path or combination of actual and virtual paths. 	
+
+Image as a file in Output needs to convert i.e. desrialize base64 string back to file to be used.
